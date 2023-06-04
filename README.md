@@ -19,7 +19,7 @@
 
 ---
 
-### [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ejjeongs)](https://solved.ac/ejjeongs)
+### [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ejjeongs)](https://solved.ac/ejjeongs) <img src="http://mazandi.herokuapp.com/api?handle=ejjeongs&theme=warm"/>
 
 
 
