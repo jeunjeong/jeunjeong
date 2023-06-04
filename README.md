@@ -1,19 +1,27 @@
 
-<col style="left">
-  <img src="https://item.kakaocdn.net/do/615839baa71af40a3b8a4940a3f19877f43ad912ad8dd55b04db6a64cddaf76d" width="200" height="200" />
-</col>
-  
-<col align="right">
+<div style="left">
+  <img align = "left" margin="20px" src="https://item.kakaocdn.net/do/615839baa71af40a3b8a4940a3f19877f43ad912ad8dd55b04db6a64cddaf76d" width="200" height="200" />
+
+    
+  <br/>  
+  <br/>  
+  <br/>
   
   ## JO EUN JEONG
-  
+
+    
+  <br/>
   <a href="https://www.instagram.com/_e_jjeongs"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_e_jjeongs"/></a>
   <a href="https://tame-antelope-1cb.notion.site/00c470431ef64933a52b3011c610a65f"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-</col>
+</div>
 
 <br>
 
 ---
+
+### [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ejjeongs)](https://solved.ac/ejjeongs)
+
+
 
 ### 🛠 Tech Stack 🛠
 
