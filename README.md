@@ -4,17 +4,16 @@
 
     
   <br/>  
-  <br/>  
-  <br/>
   
   ## JO EUN JEONG
 
-    
+은정이의 성장일기 2단계 보러가기 (ง •_•)ง -> 
+<a href="https://eunjeong-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio 보러가기 (●'◡'●)-000000?style=for-the-badge"/></a> 
   <br/>
+  
   <a href="https://www.instagram.com/_e_jjeongs"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_e_jjeongs"/></a>
   <a href="https://tame-antelope-1cb.notion.site/00c470431ef64933a52b3011c610a65f"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </div>
-
 <br>
 
 ---
